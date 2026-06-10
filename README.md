@@ -90,3 +90,25 @@ http://127.0.0.1:5000/calculate?E=100
 Також в браузері:
 
 <img width="318" height="197" alt="image" src="https://github.com/user-attachments/assets/52c1197f-db4c-4d09-88e0-406accc6a61c" />
+
+
+# Лабораторна робота №6
+
+## Тема
+
+CI/CD pipeline
+
+## Модель
+
+Математичне моделювання розподілу забруднюючих речовин між повітрям, водою та ґрунтом (5 семестр)
+
+## Автор
+
+Апанович Герман, група АІ231
+
+Знимки запуску:
+
+<img width="1042" height="505" alt="image" src="https://github.com/user-attachments/assets/d1c8f3e3-d852-4b16-854c-e096b8455e27" />
+
+<img width="1342" height="831" alt="image" src="https://github.com/user-attachments/assets/885da419-4b79-48a5-8c49-5addd8b61acb" />
+
