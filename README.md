@@ -112,3 +112,10 @@ CI/CD pipeline
 
 <img width="1342" height="831" alt="image" src="https://github.com/user-attachments/assets/885da419-4b79-48a5-8c49-5addd8b61acb" />
 
+# Модель: Математичне моделювання розподілу забруднюючих речовин між повітрям, водою та ґрунтом (5 семестр)
+
+# Автор: Апанович Герман, група АІ231
+
+<img width="534" height="237" alt="image" src="https://github.com/user-attachments/assets/639a9648-adc6-4a94-bc4f-6fdce78c91a4" />
+
+<img width="1916" height="928" alt="image" src="https://github.com/user-attachments/assets/7e367573-dd75-4f98-861e-a2ad83694a3b" />
