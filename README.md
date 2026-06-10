@@ -50,7 +50,7 @@ docker run --name lab2-container lab2-model
 
 <img width="651" height="242" alt="image" src="https://github.com/user-attachments/assets/99e4cea6-7454-42ef-b917-90fc95f3b182" />
 
-<img width="1035" height="243" alt="image" src="https://github.com/user-attachments/assets/f4b5feee-ced3-4fc5-812d-b0f3c75e6831" />
+<img width="1035" height="243" alt="image" src="https://github.com/user-attachments/assets/ad09c032-34d6-475a-9e70-59e08d714f1c" />
 
 <img width="612" height="243" alt="image" src="https://github.com/user-attachments/assets/1b9efbf2-cec4-4297-9bb5-4605187117b5" />
 
