@@ -55,3 +55,38 @@ docker run --name lab2-container lab2-model
 <img width="612" height="243" alt="image" src="https://github.com/user-attachments/assets/1b9efbf2-cec4-4297-9bb5-4605187117b5" />
 
 
+# Лабораторна робота №5
+
+## Тема
+
+Створення простого API
+
+## Модель
+
+Математичне моделювання розподілу забруднюючих речовин між повітрям, водою та ґрунтом (5 семестр)
+
+## Автор
+
+Апанович Герман, група АІ231
+
+## Запуск
+
+```bash
+python app.py
+```
+
+## Приклад запиту
+
+```bash
+http://127.0.0.1:5000/calculate?E=100
+```
+
+Знимки запуску:
+
+<img width="1115" height="343" alt="image" src="https://github.com/user-attachments/assets/ee854f5b-66fc-448f-82e6-31be53da350b" />
+
+<img width="1115" height="780" alt="image" src="https://github.com/user-attachments/assets/05897011-8380-487a-9de6-bab3e82ffcfa" />
+
+Також в браузері:
+
+<img width="318" height="197" alt="image" src="https://github.com/user-attachments/assets/52c1197f-db4c-4d09-88e0-406accc6a61c" />
